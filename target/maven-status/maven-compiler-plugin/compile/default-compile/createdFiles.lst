@@ -1,0 +1,8 @@
+org\springframework\orm\hibernate4\fix\HibernateTransactionManager.class
+org\springframework\orm\hibernate4\fix\HibernateTransactionManager$SuspendedResourcesHolder.class
+org\springframework\orm\hibernate4\fix\SessionFactoryUtils.class
+org\springframework\orm\hibernate4\fix\HibernateTransactionManager$1.class
+org\springframework\orm\hibernate4\fix\SpringSessionSynchronization.class
+org\springframework\orm\hibernate4\fix\HibernateTransactionManager$HibernateTransactionObject.class
+org\springframework\orm\hibernate4\fix\SpringSessionContext.class
+org\springframework\orm\hibernate4\fix\SpringFlushSynchronization.class
